@@ -1,2 +1,2 @@
-# atlas-flight-core
+# atlas-flight-core-lib
 Atlas-Flight core Library
