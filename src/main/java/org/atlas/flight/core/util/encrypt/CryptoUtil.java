@@ -15,9 +15,8 @@ import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;
 
 /**
- * Developed by JaeyoungMoon on 2024-03-20
- * Last Modified 2024-03-20 15:19:20
- */
+ * AES 암복호화 util
+ * */
 @Slf4j
 public final class CryptoUtil {
 
