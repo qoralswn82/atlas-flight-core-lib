@@ -1,8 +1,6 @@
 package org.atlas.flight.core.util.encrypt;
 
-import lombok.Builder;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.*;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 
@@ -15,6 +13,8 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 @Getter
 @Setter
 @Builder
+@NoArgsConstructor
+@AllArgsConstructor
 @ConfigurationProperties(prefix = "crypto")
 public class CryptoProperties {
 	private String secretKey;
