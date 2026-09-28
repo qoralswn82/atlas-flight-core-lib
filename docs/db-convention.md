@@ -41,6 +41,7 @@
 | Before(이전) | BFR | After(이후) | AFT |
 | Actual(실제) | ACTL | Estimated(예상) | EST |
 | Reason(사유) | RSN | Remark(비고) | RMRK |
+| Draft(초안) | DRAFT | Passenger(탑승객) | PSGR |
 
 ### 2-3. 운임·항공 도메인 약어
 
